@@ -1,0 +1,6 @@
+{
+  "epoch": 6,
+  "mode": "weighted",
+  "alpha": 5.0,
+  "val_sample_acc": 94.73684210526315
+}
