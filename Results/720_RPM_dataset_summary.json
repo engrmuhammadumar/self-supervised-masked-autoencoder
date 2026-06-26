@@ -1,0 +1,18 @@
+{
+  "rpm": "720_RPM",
+  "num_tokens": 133959,
+  "feature_dim": 21,
+  "token_counts": {
+    "BF": 30458,
+    "GF": 32960,
+    "TF": 36839,
+    "N": 33702
+  },
+  "num_sample_files": 672,
+  "ORIGINAL_TO_NEW": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3
+  }
+}
